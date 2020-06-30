@@ -1,2 +1,2 @@
 # Side-Projects
-LiDAR 3D Cloud 
+A place where I implement weird/interesting, small projects related to CV/ML/DL.
