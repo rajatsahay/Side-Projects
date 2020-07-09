@@ -1,7 +1,9 @@
-The main contributions of the paper:
-+Introduces a continuous-depth DNN architecture, Neural ODE (NODE), inspired by ResNet and can replace ResNet
-+How to efficiently train NODE with continuous backpropagation using ordinary differential equations (ODE)
-+Interesting applications in time-series and generative models.
+The main contributions of the paper: <br>
+<ul>
+<li>Introduces a continuous-depth DNN architecture, Neural ODE (NODE), inspired by ResNet and can replace ResNet</li>
+<li>To efficiently train NODE with continuous backpropagation using ordinary differential equations (ODE)</li>
+ <li>Interesting applications in time-series and generative models.</li>
+</ul>
 
 <pre>
 @misc{chen2018neural,
@@ -13,3 +15,5 @@ The main contributions of the paper:
     primaryClass={cs.LG}
 }
 </pre>
+
+The author's code:https://github.com/rtqichen/torchdiffeq/
